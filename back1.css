@@ -1,0 +1,151 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 26, 2014, 2:40:48 PM
+    Author     : Axita
+*/
+ body
+ {
+     width:100%;height: 100%;
+    
+ }
+           .mainbody
+            {
+               background: url("IMAGES/P.jpg")bottom repeat ;
+               margin:-10px 0 0 -10px ;
+               padding:0;
+               width:1369px;
+               height:600px;
+               
+            }
+            #bottomcover
+            {
+                margin:0 0 0 -10px ;
+                padding:0;
+                height:850px;
+                width:1379px;
+                background-color:#d9d1c4 ;
+                background-repeat: repeat;
+                top:295px;
+                background-size:100em 50em;
+                position: absolute;
+            }
+            #menubar1
+            {
+                word-spacing:95px; 
+                background: rgba(100, 205, 229, 0.15);
+                height:25px;
+                top:0px;
+                left:0;
+                position:relative;
+                font-family: georgia;
+                font-size:20px;
+                font-weight:bold
+            }
+            #regform
+            {
+                width:700px;
+                height: 650px;
+                background:rgba(100, 205, 229, 0.20);
+                margin: 70px 0 0 300px;
+                padding: 10px 10px 10px 10px;
+                font-family: georgia;
+                border-style: outset;
+                border-color: rgba(100, 205, 229, 0.15);
+            }
+            #thumbnail1
+            {
+                top: 20px;
+                margin:0px 30px 0 1100px;
+                width:120px;
+                height:800px;
+                position: absolute;
+            }
+            
+            #figure1
+            {
+                width:1060px;
+                height: 300px;
+                alignment-adjust: central;
+                margin:0 auto;
+                
+                display: block;
+            }
+            #effects:hover
+            a{
+                color: antiquewhite;
+            }
+            #masterhead1
+            {
+                width: 1060px;
+                height: 300px;
+                margin: 0 auto;
+                position: relative;
+            }
+            #banner1
+            {
+                 width:700px;
+                 height: 220px;
+                 position:absolute;
+                 top: 80px;
+                 left:120px;
+                 
+                
+            }
+            #menuholder1
+            {
+              width: 660px;
+              height: 230px;             
+              position: absolute;
+              top: 7px;
+              left: 10px;
+              padding:3px 0 0 0;
+            }
+            .main_menu11
+            {
+                background-repeat: no-repeat;
+                width:660px;
+                height:74px;
+                
+            }
+            #menu1
+            {
+                margin: 10px 0 0 0;
+                line-height: 50px;
+                height: 54px;
+            }
+            #slider1
+            {
+                
+               margin:10px 10px 10px 10px;
+               width: 405px;
+               height: 230px;
+               position:absolute;
+              
+            }
+            #w1
+            {
+               background:  antiquewhite ;
+               left:160px;top:0px;
+               width:660px;
+               height: 230px;
+               position: relative;
+               border-style: groove;
+               
+            }
+       .image11 {
+     background: url(IMAGES/defendius1.jpeg) no-repeat;
+                left:10px;
+                top:0px;
+                width:125px;
+                height:220px;
+                background-size: cover;
+     }
+     .status
+     {
+         font-family: georgia;  
+          font-size: 12px;  
+     }

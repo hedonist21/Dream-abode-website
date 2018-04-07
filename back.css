@@ -1,0 +1,125 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 26, 2014, 2:34:55 PM
+    Author     : Axita
+*/
+          #mbody
+            {
+               background:url("IMAGES/P.jpg") bottom repeat; 
+               background-color: #d9d1c4 ;
+               margin:-10px -10px -10px -10px ;
+               width:1379px;
+               height:980px;
+               background-size:cover;
+            }
+            #figure
+            {
+                width:1046px;
+                height: 905px;
+                alignment-adjust: central;
+                margin:0 auto;
+                display: block;
+            }
+            a.effects:hover
+            {
+                color: antiquewhite;
+            }
+            #masterhead
+            {
+                width: 1046px;
+                height: 689px;
+                margin: 0 auto;
+                position: relative;
+            }
+            #banner
+            {
+                background: url(IMAGES/slidebg.png) top center no-repeat;
+                width: 1026px;
+                 height: 350px;
+                 position: absolute;
+                 top: 175px;
+                 left:180px;
+                 
+                 z-index: 4444;
+                 
+            }
+            #menuholder 
+            {
+              width: 270px;
+              height: 420px;
+              position: absolute;
+              top: 7px;
+              left: 10px;
+              z-index: 8888;
+              padding:3px 0 0 0;
+            }
+            .image
+            {
+                background: url(IMAGES/defendius1.jpeg) no-repeat;
+                left:15px;
+                top:0px;
+                height:430px;
+                background-size: cover;
+                
+            }
+            .main_menu
+            {
+                background-repeat: no-repeat;
+                width:500px;
+                height:214px;
+                
+            }
+            #menu
+            {
+                margin: 10px 0 0 0;
+                line-height: 50px;
+                height: 214px;
+            }
+            #slider
+            {
+                
+                left:10px; top:10px;
+                width:1046px;
+                height: 450px;
+                position:absolute;
+              
+            }
+            
+            #thumbnail
+            {
+                top:520px;
+                left:0px;
+                position:relative;
+                width:1090px;
+                height:100px;
+                
+            }
+            .bannerholder
+            {
+                top:730px;
+                left:250px;
+                position:absolute;
+                border-style:outset;
+                border:none;
+                background:buttonface;
+                width:820px;
+                height:200px;
+                
+            }
+            #w{
+               background:  antiquewhite ;
+               left:5px;top:0px;
+               width:1085px;
+               height: 440px;
+               position: relative;
+               border-style: groove;
+               
+            }
+             body
+ {
+     width:100%;height:100%;
+ } 
